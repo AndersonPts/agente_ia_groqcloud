@@ -2,6 +2,7 @@
 # Agente IA com GroqCloud
 
 Este projeto Python implementa um agente de IA que interage com a API do GroqCloud. O usuário insere uma pergunta e a resposta é retornada pela API.
+Groq é um LLM gratuito que utiliza comunicação via API (POST)
 
 ### 🚀 **Configuração do Ambiente**
 ```bash
