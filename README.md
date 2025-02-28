@@ -4,6 +4,8 @@
 Este projeto Python implementa um agente de IA que interage com a API do GroqCloud. O usuário insere uma pergunta e a resposta é retornada pela API.
 Groq é um LLM gratuito que utiliza comunicação via API (POST)
 
+Criar API Key na Groq: https://console.groq.com/keys
+
 ### 🚀 **Configuração do Ambiente**
 ```bash
 python -m venv .venv
@@ -21,6 +23,3 @@ python src/main.py
 ```bash
 pytest
 ```
-```
-
----
